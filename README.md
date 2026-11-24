@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Nagesh;Aspiring+Full-Stack+Developer;React.js+%7C+Next.js+%7C+AWS;Building+and+Learning+Every+Day" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Nagesh L;Aspiring+Full-Stack+Developer;React.js+%7C+Next.js+%7C+AWS;Building+and+Learning+Every+Day" alt="Typing SVG" />
 
 ### Aspiring Full-Stack Developer | India 🇮🇳
 
@@ -10,7 +10,7 @@ Building modern web applications and exploring cloud technologies.
 <a href="https://the-wild-oasis.online">
   <img src="https://img.shields.io/badge/🌐_Customer_App-The_Wild_Oasis-7C3AED?style=for-the-badge" />
 </a>
-<a href="https://the-wild-oasis-hms.vercel.app/login">
+<a href="https://the-wild-oasis-hms.vercel.app">
   <img src="https://img.shields.io/badge/🏨_Hotel_App-Management-0EA5E9?style=for-the-badge" />
 </a>
 <a href="https://nageshl-portfolio.in">
