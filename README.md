@@ -47,10 +47,11 @@ Building modern web applications and exploring cloud technologies.
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" />
   <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=tanstack&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Hot_Toast-FF5A5F?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Toastify-FFCC00?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge&logo=chartdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Lucide_React-F56565?style=for-the-badge&logo=lucide&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
 </p>
-
 ### Backend & Database
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase" />
