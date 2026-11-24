@@ -45,9 +45,6 @@ Building modern web applications and exploring cloud technologies.
 
 ### Cloud & Dev Tools
 
-
-### ☁️ Cloud & Dev Tools
-
 <div align="center">
 
 <p>
