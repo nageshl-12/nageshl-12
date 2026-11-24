@@ -41,11 +41,18 @@ Building modern web applications and exploring cloud technologies.
 
 ### Backend & Database
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase" />
+<img src="https://skillicons.dev/icons?i=nodejs,supabase" />
 
 ### Cloud & Dev Tools
 
-<img src="https://skillicons.dev/icons?i=aws,git,github,vscode" />
+
+### ☁️ Cloud & Dev Tools
+
+<div align="center">
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode" />
+</p>
 
 <p>
   <img src="https://img.shields.io/badge/AWS_Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white" />
@@ -58,6 +65,9 @@ Building modern web applications and exploring cloud technologies.
   <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
 </p>
+
+</div>
+
 
 </div>
 
