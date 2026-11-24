@@ -52,8 +52,8 @@ Building modern web applications and exploring cloud technologies.
 
 <div align="center">
 
-<a href="https://github.com/nagesh-l-12/wild-oasis-cabin-booking">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nagesh-l-12&repo=wild-oasis-cabin-booking&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/nageshl-12/wild-oasis-cabin-booking">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nageshl-12&repo=wild-oasis-cabin-booking&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/SUSPECT-911/Compile-X-Online-Code-compiler">
@@ -93,11 +93,11 @@ An online code compiler project built using React and Node.js.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nagesh-l-12&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nageshl-12&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagesh-l-12&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nageshl-12&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://streak-stats.demolab.com?user=nagesh-l-12&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=nageshl-12&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -107,7 +107,7 @@ An online code compiler project built using React and Node.js.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nagesh-l-12&theme=tokyo-night&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nageshl-12&theme=tokyo-night&hide_border=true" width="100%" />
 
 </div>
 
@@ -117,7 +117,7 @@ An online code compiler project built using React and Node.js.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nagesh-l-12&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=nageshl-12&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" />
 
 </div>
 
@@ -131,7 +131,7 @@ An online code compiler project built using React and Node.js.
   <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
-<a href="https://github.com/nagesh-l-12">
+<a href="https://github.com/nageshl-12">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -147,6 +147,6 @@ An online code compiler project built using React and Node.js.
 
 ### 💡 Keep Learning. Keep Building. Keep Growing.
 
-<img src="https://komarev.com/ghpvc/?username=nagesh-l-12&style=for-the-badge&color=blueviolet" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=nageshl-12&style=for-the-badge&color=blueviolet" alt="Profile views" />
 
 </div>
