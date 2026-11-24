@@ -40,9 +40,17 @@ Building modern web applications and exploring cloud technologies.
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase" />
 
+
 ### Cloud & Tools
 
 <img src="https://skillicons.dev/icons?i=aws,git,github,vscode" />
+
+<p>
+  <img src="https://img.shields.io/badge/AWS_Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_Route_53-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_CloudFront-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+
 
 </div>
 
@@ -113,21 +121,11 @@ An online code compiler project built using React and Node.js.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nageshl-12&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" />
-
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
 
-<a href="https://nageshl-portfolio.vercel.app">
+<a href="https://nageshl-portfolio.in">
   <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
@@ -135,7 +133,7 @@ An online code compiler project built using React and Node.js.
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/nagesh-l">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
