@@ -31,24 +31,40 @@ Building modern web applications and exploring cloud technologies.
 
 ---
 
+
 ## 🛠️ Tech Stack
 
 <div align="center">
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+
+### React Ecosystem
+
+<p>
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" />
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=tanstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Hot_Toast-FF5A5F?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lucide_React-F56565?style=for-the-badge&logo=lucide&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
+</p>
 
 ### Backend & Database
 
-<img src="https://skillicons.dev/icons?i=nodejs,supabase" />
-
-### Cloud & Dev Tools
-
-<div align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase" />
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode" />
+  <img src="https://img.shields.io/badge/Auth.js-000000?style=for-the-badge&logo=auth0&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Server_Actions-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+</p>
+
+### Cloud & Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,vercel" />
 </p>
 
 <p>
@@ -57,11 +73,23 @@ Building modern web applications and exploring cloud technologies.
   <img src="https://img.shields.io/badge/Amazon_CloudFront-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vite,npm" />
+
+### Core Concepts
+
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Authentication_&_Authorization-4B5563?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Server--Side_Rendering-4B5563?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Caching_&_Revalidation-4B5563?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Responsive_Design-4B5563?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/State_Management-4B5563?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Component--Based_Architecture-4B5563?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CRUD_Operations-4B5563?style=for-the-badge" />
 </p>
+
+</div>
 
 </div>
 
